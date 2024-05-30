@@ -11,4 +11,4 @@ In this project, the usage of a local charging station will be analysed to hlelp
 * Users whose average charging sessions last longer than 10 hours when using shared charging stations. 
 
 --- 
-The project's solution and analysis are provided in this file- [analysis.md](analysis.md)
+The project's solution and analysis are provided in this file- [Solution](Solution.md)
