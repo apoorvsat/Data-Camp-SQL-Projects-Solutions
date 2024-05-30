@@ -1,5 +1,7 @@
-# Analyzing Unicorn Companies- A SQL Project
+# <p align="center" style="margin-top: 0px;"> 🦄 Analyzing Unicorn Companies 🏢
 ![Analyzing Unicorn Companies](unicorn.png)
+
+--- 
 
 Did you know that the average return from investing in stocks is [10% per year](https://www.nerdwallet.com/article/investing/average-stock-market-return) (not accounting for inflation)? But who wants to be average?! 
 

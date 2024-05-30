@@ -1,4 +1,4 @@
-# <p align="center" style="margin-top: 0px;"> ⚕️ Analyzing Students' Mental Health 🧠
+# <p align="center" style="margin-top: 0px;"> 🦄 Analyzing Unicorn Companies 🏢
 
 ![unicorn](unicorn.png)
 
