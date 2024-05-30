@@ -1,7 +1,7 @@
 
 # <p align="center" style="margin-top: 0px;"> 🔋 Analyzing Electric Vehicle Charging Habits 🚗
 
-![dollar bill](car%20charging.png)
+![car charging](evcharging.png)
 
 ---
 This report contains the solution of the SQL Project 'Analyzing Electric Vehicle Charging Habits' available on DataCamp. To access the complete project click on this [link]("https://projects.datacamp.com/projects/2408").
