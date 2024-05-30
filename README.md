@@ -18,5 +18,8 @@ This repository contains the solutions to DataCamp's SQL Projects. <a href ="htt
 ### 4. [Analyzing Students Mental Health](#Analyzing%20Students%20Mental%20Health)
 <p>A Japanese International University surveyed its students and published a study on international students having a higher risk of mental health difficulties than a general student. The data from the survey needs to be explored to uncover whether we would arrive at a similar conclusion.</p>
 
+### 5. [Analyzing Industry Carbon Emissions](#Analyzing%20Industry%20Carbon%20Emissions)
+<p>Exploring the significant role of product carbon footprints (PCFs) in global emissions, this project delves into the intricate factors of heat generation during manufacturing and transportation. With over 75% of global emissions attributed to products ranging from food to appliances, understanding PCFs becomes paramount. Leveraging publicly available data on nature.com, this analysis focuses on PCFs provided by various companies, quantifying greenhouse gas emissions associated with individual products in terms of CO2 equivalents.</p>
+
 --- 
 
