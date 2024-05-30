@@ -1,7 +1,8 @@
 # <p align="center" style="margin-top: 0px;"> 📔 DataCamp SQL Projects Solutions 📝
 
 <img src ="datacamp.png">
-This repository contains the solutions of DataCamp's SQL Projects. [Click here]("https://app.datacamp.com/learn/projects") to view all the available projects on DataCamp's website. 
+This repository contains the solutions to DataCamp's SQL Projects. [Click here](https://app.datacamp.com/learn/projects) to view all the available projects on DataCamp's website.
+
 
 ---
 ## 🧾 Table of Contents
