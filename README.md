@@ -15,7 +15,7 @@ This repository contains the solutions to DataCamp's SQL Projects. <a href ="htt
 ### 3. [Analyzing Electric Vehicle Charging Habits 🔋](#Analyzing%20Electric%20Vehicle%20Charging%20Habits)
 <p>As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations. The aim is to help apartment building managers better understand their tenants’ EV charging habits.</p>
 
-### 4. [Analyzing Students Mental Health 🧠](#Analyzing%20Students%20Mental%20Health)
+### 4. [Analyzing Students' Mental Health 🧠](#Analyzing%20Students%20Mental%20Health)
 <p>A Japanese International University surveyed its students and published a study on international students having a higher risk of mental health difficulties than a general student. The data from the survey needs to be explored to uncover whether we would arrive at a similar conclusion.</p>
 
 ### 5. [Analyzing Industry Carbon Emissions 🏭](#Analyzing%20Industry%20Carbon%20Emissions)
