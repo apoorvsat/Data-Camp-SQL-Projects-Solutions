@@ -10,6 +10,6 @@ The study found that international students have a higher risk of mental health 
 
 The project aims to analyze the students data to see how the length of stay (stay) impacts the average mental health diagnostic scores of the international students present in a Japanese University. 
 
-The project's solution and analysis are provided in this file- [analysis.md](Analysis.md)
+The project's solution and analysis are provided in this file- [Solution.md](Solution.md)
 
 --- 
