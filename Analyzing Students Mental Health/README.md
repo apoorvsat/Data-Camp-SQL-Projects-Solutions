@@ -2,7 +2,7 @@
 
 ![mental image](mental.png)
 
-This repository contains the solutions to the SQL Project- Analyzing Students' Mental Health available on DataCamp. [Click here]("https://projects.datacamp.com/projects/1906") to view the complete project on DataCamp's website. 
+This repository contains the solutions to the SQL Project- Analyzing Students' Mental Health available on DataCamp. <a href = "https://projects.datacamp.com/projects/1593">Click here</a> to access the complete project on DataCamp's website.
 
 ---
 # Project Overview:
