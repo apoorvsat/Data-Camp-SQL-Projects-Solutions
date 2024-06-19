@@ -1,6 +1,6 @@
 # <p align="center" style="margin-top: 0px;"> 🏭 Analyzing Industry Carbon Emissions 💨
 
-<img src ="carbon_footprint.png">
+<p align = "center"><img src ="carbon_footprint.png"></p>
 This repository contains the solution of DataCamp's SQL Project- Analyzing Industry Carbon Emissions. <a href = "https://projects.datacamp.com/projects/1590">Click here</a> to access the complete project on DataCamp's website. 
 
 ---
