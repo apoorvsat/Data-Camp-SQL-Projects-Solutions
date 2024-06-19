@@ -21,5 +21,7 @@ This repository contains the solutions to DataCamp's SQL Projects. <a href ="htt
 ### 5. [Analyzing Industry Carbon Emissions 🏭](Analyzing%20Industry%20Carbon%20Emissions)
 <p>Exploring the significant role of product carbon footprints (PCFs) in global emissions, this project delves into the intricate factors of heat generation during manufacturing and transportation. With over 75% of global emissions attributed to products ranging from food to appliances, understanding PCFs becomes paramount. Leveraging publicly available data on nature.com, this analysis focuses on PCFs provided by various companies, quantifying greenhouse gas emissions associated with individual products in terms of CO2 equivalents.</p>
 
+### 6. [When was the Golden Era of Games? 🎮](When%20was%20the%20Golden%20Era%20of%20Games?)
+<p>This project analyzes trends in video game success by examining critic and user scores, and sales data for the top 400 games from 1977 to today. Using data joining, set theory comparisons, filtering, grouping, and ordering, we identify key factors contributing to a game's success and provide insights into industry evolution. A larger dataset of over 13,000 games from Kaggle offers further research opportunities.</p>
 --- 
 
