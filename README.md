@@ -23,5 +23,6 @@ This repository contains the solutions to DataCamp's SQL Projects. <a href ="htt
 
 ### 6. [When was the Golden Era of Games? 🎮](When%20was%20the%20Golden%20Era%20of%20Games?)
 <p>This project analyzes trends in video game success by examining critic and user scores, and sales data for the top 400 games from 1977 to today. Using data joining, set theory comparisons, filtering, grouping, and ordering, we identify key factors contributing to a game's success and provide insights into industry evolution. A larger dataset of over 13,000 games from Kaggle offers further research opportunities.</p>
+
 --- 
 
