@@ -9,7 +9,7 @@ This repository contains the solutions to DataCamp's SQL Projects. <a href ="htt
 ### 1. [Analyzing Unicorn Companies 🦄](#Analyzing%20Unicorn%20Companies)
 <p>This project aims to support an investment firm by analyzing trends in high-growth companies. The firm is interested in understanding which industries are producing the highest valuations and the rate at which new high-value companies are emerging. Providing them with this information gives them a competitive insight as to industry trends and how they should structure their portfolio looking forward.</p>
 
-### 2. [Analyzing International Debt Statistics 💵](#Analyzing%20International%20Debt%20Statistics)
+### 2. [Analyzing International Debt Statistics 💵](Analyzing%20International%20Debt%20Statistics)
 <p>In this project, international debt data collected by The World Bank will be analyzed. The dataset provided by the World Bank contains information about the amount of debt owed by developing countries across several categories.</p>
 
 ### 3. [Analyzing Electric Vehicle Charging Habits 🔋](https://github.com/apoorvsat/Data-Camp-SQL-Projects-Solutions/tree/main/Analyzing%20Electric%20Vehicle%20Charging%20Habits)
