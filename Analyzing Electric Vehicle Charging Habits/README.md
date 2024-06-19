@@ -1,7 +1,7 @@
 # <p align="center" style="margin-top: 0px;"> 🔋 Analyzing Electric Vehicle Charging Habits 🚗
 
 <img src ="evcharging.png">
-This repository contains the solutions to Analyzing Electric Vehicle Charging Habits, A SQL Project on DataCamp. [Click here]("https://projects.datacamp.com/projects/2408") to view the complete project.
+This repository contains the solutions to Analyzing Electric Vehicle Charging Habits, A SQL Project on DataCamp. <a href = "https://projects.datacamp.com/projects/2408">Click here</a> to access the complete project on DataCamp's website.
 
 ---
 # Project Overview:  
