@@ -12,7 +12,7 @@ This repository contains the solutions to DataCamp's SQL Projects. <a href ="htt
 ### 2. [Analyzing International Debt Statistics 💵](#Analyzing%20International%20Debt%20Statistics)
 <p>In this project, international debt data collected by The World Bank will be analyzed. The dataset provided by the World Bank contains information about the amount of debt owed by developing countries across several categories.</p>
 
-### 3. [Analyzing Electric Vehicle Charging Habits 🔋](#Analyzing%20Electric%20Vehicle%20Charging%20Habits)
+### 3. [Analyzing Electric Vehicle Charging Habits 🔋] (https://github.com/apoorvsat/Data-Camp-SQL-Projects-Solutions/tree/main/Analyzing%20Electric%20Vehicle%20Charging%20Habits)
 <p>As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations. The aim is to help apartment building managers better understand their tenants’ EV charging habits.</p>
 
 ### 4. [Analyzing Students' Mental Health 🧠](#Analyzing%20Students%20Mental%20Health)
