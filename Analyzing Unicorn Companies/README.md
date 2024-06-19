@@ -2,7 +2,7 @@
 
 ![unicorn](unicorn.png)
 
-This repository contains the solutions to the SQL Project- Analyzing Unicorn Companies available on DataCamp. [Click here]("https://app.datacamp.com/learn/projects/1531") to view the complete project on DataCamp's website. 
+This repository contains the solutions to the SQL Project- Analyzing Unicorn Companies available on DataCamp. <a href = "https://projects.datacamp.com/projects/1531">Click here</a> to access the complete project on DataCamp's website.
 
 ---
 # Project Overview:
